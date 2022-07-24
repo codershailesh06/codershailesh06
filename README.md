@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codershailesh06
-- 👀 I’m interested in WEB DEVELOPMWNT.
+- 👀 I’m interested in WEB DEVELOPMENT.
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT TEAM.
 - 📫 How to reach me :shaileshlonakr06@gmail.com
