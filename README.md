@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codershailesh06
+- 👋 Hi, I’m Shailesh 
 - 👀 I’m interested in WEB DEVELOPMENT.
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT TEAM.
 - 📫 How to reach me :shaileshlonakr06@gmail.com
 
